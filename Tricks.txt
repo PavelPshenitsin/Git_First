@@ -1,2 +1,2 @@
-print("abrakadabra!")
-print("sasiki masasiki!")
+print("abrakadabra!!!")
+print("sasiki masasiki!!!")
